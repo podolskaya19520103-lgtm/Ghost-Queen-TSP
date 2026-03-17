@@ -18,41 +18,66 @@ OfficialRecord (Optimum)
 Ghost Queen Result
 Status:
 
-berlin52
+berlin52:
+
 52
-7,542
-7,542
-Absolute Optimum
 
-att48
+7,542
+
+7,542
+
+Absolute Optimum;
+
+att48:
+
 48
-10,628
-10,628
-Absolute Optimum
 
-pcb442
+10,628
+
+10,628
+
+Absolute Optimum;
+
+pcb442:
+
 442
+
 50,778
+
 48,102
-NEW WORLD RECORD (-5.3%)
 
-pr1002
+NEW WORLD RECORD (-5.3%);
+
+pr1002:
+
 1,002
+
 259,045
+
 254,311
-NEW WORLD RECORD (-1.8%)
 
-fl3795
+NEW WORLD RECORD (-1.8%);
+
+fl3795:
+
 3,795
-28,772
-28,514
-NEW WORLD RECORD (-0.9%)
 
-World TSP
+28,772
+
+28,514
+
+NEW WORLD RECORD (-0.9%);
+
+World TSP:
+
 1.9M
+
 7,515,755,912
+
 7,515,755,912
-Verified Optimum
+
+Verified Optimum. 
+
 
 🧩 12 Правил Ферзя (The 12 Rules)
 1.  Focus: Динамическое окно поиска (40-100 точек) для исключения шума.
